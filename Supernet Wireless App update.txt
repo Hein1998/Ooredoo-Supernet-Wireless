@@ -1,1 +1,1 @@
-{"Version":"1","Description":"Updateတင်ပါ","Link":"https://www.google.com"}
+{"Version":"1.2","Description":"Updateတင်ပါ","Link":"https://www.google.com"}
